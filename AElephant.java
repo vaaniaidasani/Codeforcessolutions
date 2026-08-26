@@ -7,5 +7,6 @@ public class AElephant {
         int x = sc.nextInt();
 
         System.out.println((x + 4) / 5);
+        sc.close();
     }
 }
