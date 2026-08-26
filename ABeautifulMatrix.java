@@ -17,5 +17,6 @@ public class ABeautifulMatrix {
         }
 
         System.out.println(Math.abs(row - 3) + Math.abs(col - 3));
+        sc.close();
     }
 }
